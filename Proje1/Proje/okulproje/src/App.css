@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+}
+
+.container {
+    margin-left: 30vw;
+    display: flex;
+
+}
+
+
+.login-page {
+    margin-left: 38%;
+}
+
+.page {
+    border-radius: 10%;
+    height: 70%;
+    width: 140%;
+    background-color: #f5edd6;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.baslik {
+    display: flex;
+    font-size: 260%;
+
+    margin-bottom: 0;
+    justify-content: center;
+}
+
+.yaz {
+    margin-top: 0;
+    opacity: 0.5;
+    font-size: 90%;
+    margin-left: 38%;
+
+}
+
+.usern {
+    padding-top: 1%;
+    margin-left: 15%;
+}
+
+.userp {
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.user-name {
+    margin-bottom: 0;
+    opacity: 0.5;
+    font-size: 90%;
+}
+
+.user-input-name {
+    border-radius: 15%;
+    background-color: rgb(180, 166, 148);
+    height: 2.5rem;
+    width: 75%;
+    border-style: none;
+    text-align: center;
+}
+
+.user-input-password {
+    border-radius: 15%;
+    background-color: rgb(180, 166, 148);
+    height: 2.5rem;
+    width: 75%;
+    border-style: none;
+    text-align: center;
+}
+
+.forgot {
+    padding-top: 8%;
+    opacity: 0.5;
+    font-size: 90%;
+    padding-left: 27%;
+}
+
+.login-button {
+    margin-top: 5%;
+    margin-left: 16%;
+
+}
+
+.login {
+
+    width: 75%;
+    height: 3rem;
+    background-color: rgb(255, 205, 40);
+    border-radius: 10%;
+    border-style: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+
+}
+
+.login:hover {
+    background-color: black;
+}
+
+.user-password {
+    font-size: 90%;
+    margin-bottom: 0;
+    opacity: 0.5;
+}
+
+.write {
+    margin: 0;
+    padding-top: 1%;
+}
+
+h1 {
+
+    font-family: Arial;
+}
+
+.proBee {
+    padding-top: 0;
+    padding-left: 17%;
+    height: 18rem;
+
+
+}

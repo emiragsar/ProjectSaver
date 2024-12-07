@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "username": "202228002",
+      "password": "pass1",
+      "role": "instructor"
+    },
+    {
+      "id": "1",
+      "username": "202128023",
+      "password": "pass2",
+      "role": "student"
+    },
+    {
+      "id": "2",
+      "username": "202228401",
+      "password": "pass3",
+      "role": "instructor"
+    },
+    {
+      "id": "3",
+      "username": "202028906",
+      "password": "pass4",
+      "role": "instructor"
+    },
+    {
+      "id": "4",
+      "username": "202028001",
+      "password": "pass5",
+      "role": "student"
+    }
+  ],
+  "projects": []
+}

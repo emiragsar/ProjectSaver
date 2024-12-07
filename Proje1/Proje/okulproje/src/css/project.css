@@ -1,0 +1,104 @@
+.title h1 {
+    font-size: 400%;
+}
+
+.title {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+    width: 60vw;
+}
+
+
+input {
+
+    border-style: none;
+
+}
+
+.project-summary textarea {
+    width: 20vw;
+    background-color: #f9f1cf;
+    height: 40vh;
+    resize: none;
+    border-radius: 5%;
+}
+
+.project-name input {
+    border-radius: 5%;
+    width: 20vw;
+    background-color: #f9f1cf;
+}
+
+.id {
+    border: 2px solid black;
+
+    padding: 0;
+    margin-left: 0;
+    height: 5vh;
+
+}
+
+
+.id input {
+    width: 100%;
+    padding: 0;
+}
+
+.logo {
+
+    padding: 0;
+}
+
+
+h2 {
+    font-size: 200%;
+}
+
+.probee {
+    padding-top: 0;
+    width: 200px;
+    margin-top: 0;
+    padding-left: 2vw;
+}
+
+
+.project-name {
+    padding-top: 3vh;
+    margin-bottom: 5vh;
+}
+
+.pmain-content div {
+    display: flex;
+    width: 60vw;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin: 2vh 2vw;
+}
+
+.side {
+    top: 0;
+    height: 100%;
+    position: sticky;
+}
+
+
+
+.submit {
+    padding-top: 5vh;
+    padding-left: 20vw;
+}
+
+.submit button {
+
+    width: 15vw;
+    height: 7vh;
+    background-color: orange;
+    border-radius: 10%;
+    border-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+
+
+
+}

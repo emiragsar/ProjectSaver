@@ -1,0 +1,28 @@
+.project a {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
+
+.project a:hover {
+    color: rgb(238, 201, 19);
+}
+
+.main-content {
+    margin: 2vh 2vw;
+}
+
+.project {
+    margin-top: 2vh;
+    padding-top: 2vh;
+
+
+}
+
+
+
+.side {
+    top: 0;
+    position: sticky;
+    height: 100%;
+}

@@ -1,0 +1,17 @@
+.names {
+    padding-left: 2vw;
+    display: flex;
+}
+
+
+.project h2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+
+
+.student-number {
+    display: flex;
+}
